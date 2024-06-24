@@ -7,13 +7,17 @@ from banks to news websites, and present a major challenge to making sure people
 
 ### Dwonload&Install
 
-### git clone https://github.com/Ha3MrX/DDos-Attack
+```
+git clone https://github.com/Ha3MrX/DDos-Attack
+```
 
-### cd DDos-Attack
+```
+cd DDos-Attack-Fork
+```
 
-### chmod +x ddos-attack.py
-
-### python ddos-attack.py
+```
+python ddos-attack.py
+```
 
 ### ScreenShot 
 

@@ -1,4 +1,6 @@
 # DDos-Attack 
+
+`Has Update`
 ### What Is A DDos-Attack
 
 ### A Distributed Denial of Service (DDoS) attack is an attempt to make an online service unavailable 
@@ -8,7 +10,7 @@ from banks to news websites, and present a major challenge to making sure people
 ### Dwonload&Install
 
 ```
-git clone [https://github.com/Ha3MrX/DDos-Attack](https://github.com/DiarDev/DDos-Attack-Fork.git)
+git clone https://github.com/DiarDev/DDos-Attack-Fork.git
 ```
 
 ```

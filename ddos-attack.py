@@ -24,7 +24,7 @@ print ("Author   : HA-MRX")
 print ("You Tube : https://www.youtube.com/channel/UCCgy7i_A5yhAEdY86rPOinA")
 print ("github   : https://github.com/Ha3MrX")
 print ("Facebook : https://www.facebook.com/muhamad.jabar222")
-ip = raw_input("IP Target : ")
+ip = input("IP Target : ")
 port = input("Port       : ")
 
 os.system("clear")
